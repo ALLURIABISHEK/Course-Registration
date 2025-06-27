@@ -106,8 +106,9 @@ Running:
 
 bash
 mvn exec:java -Dexec.mainClass="org.example.Main"
-Screenshots
-(Add screenshots of your interface here)
+#Screenshots
+#Login Page
+![Screenshot 2025-06-27 144554](https://github.com/user-attachments/assets/8d685a92-1e6e-4760-9d8c-9028f49f1c47)
 
 Future Enhancements
 Email notifications for course registration
